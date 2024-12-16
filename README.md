@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a discord theme creator for Vencord/BetterDiscord and I an working on a theme right now!
+I am a discord theme creator for Vencord/BetterDiscord
 
 My themes:
 
