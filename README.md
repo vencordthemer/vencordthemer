@@ -2,9 +2,10 @@
 
 I am a discord theme creator for Vencord/BetterDiscord
 
+Website: https://vencordthemer.mobirisesite.com/
+
 My themes:
 
-Website: https://vencordthemer.github.io/home/
 
 Radial Status: https://vencordthemer.github.io/Radial-Status/
 
