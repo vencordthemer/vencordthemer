@@ -18,3 +18,6 @@ Vertical Sidebar: https://vencordthemer.github.io/Vertical-Sidebar/
 Settings Icons: https://vencordthemer.github.io/Settings-Icons/
 
 Rainforest: https://vencordthemer.github.io/Rainforest/
+
+
+## Wan't My Themes On Replugged? Heres How!
