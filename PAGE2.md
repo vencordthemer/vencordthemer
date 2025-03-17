@@ -11,4 +11,5 @@ I do many things, I have just learnt TypeScript and you can see my TypeScript re
 - Python
 
 ***
+[Back](https://github.com/vencordthemer/vencordthemer/blob/main/README.md) Page 2
 
