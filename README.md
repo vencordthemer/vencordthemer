@@ -40,6 +40,9 @@ I am a Discord theme creator for **Vencord/BetterDiscord**.
 
 6. Paste all the code into the Quick CSS and hit Apply
 
+***
+
+Page 1 [Next](https://github.com/vencordthemer/vencordthemer/blob/main/PAGE2.md)
 
 
 
