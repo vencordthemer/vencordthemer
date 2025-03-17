@@ -11,6 +11,11 @@ I am a Discord theme creator for **Vencord/BetterDiscord**.
 
 **Website:** [Vencord Themer](https://vencordthemer.mobirisesite.com/)
 
+**WikiEdit:** [WikiEdit](https://wikiedit.onrender.com/)
+
+
+
+
 ### My Themes:
 - [Radial Status](https://vencordthemer.github.io/Radial-Status/)
 - [SoftX Remastered](https://vencordthemer.github.io/SoftX-Remastered/)
