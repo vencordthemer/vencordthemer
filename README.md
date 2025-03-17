@@ -33,6 +33,8 @@ I am a Discord theme creator for **Vencord/BetterDiscord**.
 5. Copy everything in the file.  
    ![image](https://github.com/user-attachments/assets/3a9cfbf5-0927-4420-b4b7-23e7275b8753)
 
+6. Paste all the code into the Quick CSS and hit Apply
+
 
 
 
