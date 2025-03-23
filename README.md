@@ -9,7 +9,7 @@
 
 I am a Discord theme creator for **Vencord/BetterDiscord**.
 
-**Website:** [Vencord Themer](https://vencordthemer.mobirisesite.com/)
+**Website:** [Vencord Themer](https://vencordthemer.github.io/)
 
 **WikiEdit:** [WikiEdit](https://wikiedit.onrender.com/)
 
