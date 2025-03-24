@@ -6,7 +6,7 @@
 
 ***
 
-I am a Discord theme creator for **Vencord/BetterDiscord**.
+I WAS a Discord theme creator for **Vencord/BetterDiscord**. (Now express.js dev)
 
 **Website:** [Vencord Themer](https://vencordthemer.github.io/)
 
