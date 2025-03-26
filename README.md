@@ -1,6 +1,6 @@
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=vencordthemer&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="vencordthemer's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vencordthemer&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="vencordthemer's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vencordthemer&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
 
 </div>
 
