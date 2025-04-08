@@ -1,10 +1,10 @@
-# What I do
+What I do
 
 I do many things, I have just learnt TypeScript and you can see my TypeScript repositorys [here](https://github.com/orgs/Visual-Studios/repositories?q=++language%3ATypeScript)
 
 
 
-###  Languages & Tools I Know
+### 💻 Languages & Tools I Know
 
 #### 🎨 Frontend
 <p align="left">
