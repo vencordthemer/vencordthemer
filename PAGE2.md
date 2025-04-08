@@ -18,7 +18,7 @@ I do many things, I have just learnt TypeScript and you can see my TypeScript re
 
 #### 🧰 Tools & Tech
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=firebase,vite,git,github" />
+  <img src="https://skillicons.dev/icons?i=firebase,vite,git,github,discordjs,vscode" />
 </p>
 
 
