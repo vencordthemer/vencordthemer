@@ -19,7 +19,7 @@ I WAS a Discord theme creator for **Vencord/BetterDiscord**. (Now express.js dev
 
 
 
-### My Themes:
+### 🖌️  My Discord Themes:
 - [Radial Status](https://vencordthemer.github.io/Radial-Status/)
 - [SoftX Remastered](https://vencordthemer.github.io/SoftX-Remastered/)
 - [Radial Status For SoftX Remastered](https://vencordthemer.github.io/Radial-Status-For-SoftX-Remastered/)
@@ -29,7 +29,7 @@ I WAS a Discord theme creator for **Vencord/BetterDiscord**. (Now express.js dev
 
 ---
 
-### Want My Themes on Replugged? Here's How!
+### 💻 Want My Themes on Replugged? Here's How!
 1. Find the settings icon and open it.  
    ![image](https://github.com/user-attachments/assets/9689121c-3f70-4e50-b959-643f3b4e25df)
 2. Scroll down until you see the **Replugged** tab.  
