@@ -19,7 +19,7 @@ I WAS a Discord theme creator for **Vencord/BetterDiscord**. (Now express.js dev
 
 
 
-### 🖌️  My Discord Themes:
+### 🖌️  My Themes:
 - [Radial Status](https://vencordthemer.github.io/Radial-Status/)
 - [SoftX Remastered](https://vencordthemer.github.io/SoftX-Remastered/)
 - [Radial Status For SoftX Remastered](https://vencordthemer.github.io/Radial-Status-For-SoftX-Remastered/)
