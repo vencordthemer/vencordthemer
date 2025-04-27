@@ -21,7 +21,7 @@ I WAS a Discord theme creator for **Vencord/BetterDiscord**. (Now express.js dev
 **WikiEdit:** [WikiEdit](https://wikiedit.onrender.com/)
 
 
-
+---
 
 
 
@@ -34,6 +34,25 @@ I WAS a Discord theme creator for **Vencord/BetterDiscord**. (Now express.js dev
 - [Rainforest](https://vencordthemer.github.io/Rainforest/)
 
 ---
+
+### 💻 Languages & Tools I Know
+
+#### 🎨 Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+#### 🛠️ Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,py,mongodb" />
+</p>
+
+#### 🧰 Tools & Tech
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=firebase,vite,git,github,discordjs,vscode" />
+</p>
+
+***
 
 ### 💻 Want My Themes on Replugged? Here's How!
 1. Find the settings icon and open it.  
