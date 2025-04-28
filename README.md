@@ -71,9 +71,7 @@ I WAS a Discord theme creator for **Vencord/BetterDiscord**. (Now express.js dev
 
 sorry about my massive crosshair
 
-***
 
-Page 1 [Next](https://github.com/vencordthemer/vencordthemer/blob/main/PAGE2.md)
 
 
 
