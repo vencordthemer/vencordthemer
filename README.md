@@ -39,17 +39,17 @@ I WAS a Discord theme creator for **Vencord/BetterDiscord**. (Now express.js dev
 
 #### 🎨 Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
+  <img src="https://skills-icons.vercel.app/api/icons?i=html,css,js" />
 </p>
 
 #### 🛠️ Backend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,py,mongodb" />
+  <img src="https://skills-icons.vercel.app/api/icons?i=nodejs,express,python,mongodb" />
 </p>
 
 #### 🧰 Tools & Tech
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=firebase,vite,git,github,discordjs,vscode" />
+  <img src="https://skills-icons.vercel.app/api/icons?i=firebase,vite,git,github,discordjs,vscode" />
 </p>
 
 ***
