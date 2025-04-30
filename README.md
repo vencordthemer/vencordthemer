@@ -49,7 +49,7 @@ I WAS a Discord theme creator for **Vencord/BetterDiscord**. (Now express.js dev
 
 #### 🧰 Tools & Tech
 <p align="left">
-  <img src="https://skills-icons.vercel.app/api/icons?i=firebase,vite,git,github,discordjs,vscode" />
+  <img src="https://skills-icons.vercel.app/api/icons?i=firebase,vite,react,git,github,discordjs,vscode" />
 </p>
 
 ***
