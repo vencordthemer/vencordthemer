@@ -14,11 +14,10 @@
 
 I WAS a Discord theme creator for **Vencord/BetterDiscord**. (Now express.js dev)
 
-**Website:** [Vencord Themer](https://vencordthemer.github.io/)
+**Website:** [VencordThemer](https://vencordthemer.github.io/)
 
-**Links:** [Linky](https://linky-s.pages.dev/vencordthemer)
+**Links:** [Linky](https://linky-s.pages.dev/user/vencordthemer)
 
-**WikiEdit:** [WikiEdit](https://wikiedit.onrender.com/)
 
 
 ---
