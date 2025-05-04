@@ -9,6 +9,11 @@
     </div>
 </div>
 
+<div align="center">
+<a href="https://linky-s.pages.dev/user/vencordthemer">
+  <img src="https://linky-s.pages.dev/badge.jpg" alt="Find Me On Linky" width="125"/>
+</a>
+</div>
 
 ***
 
