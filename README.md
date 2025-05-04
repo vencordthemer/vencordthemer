@@ -1,6 +1,4 @@
-<div align="center">
-** My Github Stats **
-  </div>
+
 
   
   
